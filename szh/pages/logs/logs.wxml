@@ -1,0 +1,129 @@
+<view class='my-home'>
+  <view>
+    <view class='my-tit'>
+      <image src='../assets/icons/bj.png' class='bg-image'></image>
+      <view class='my-head-new'>
+        <view class='my-heade'>
+          <image src='../assets/icons/1.png' class='head'></image>
+        </view>
+        <view class='my-name-box'>
+          <view class='my-name-top'>
+            <text class='my-name'>习近平</text>
+            <image src='../assets/icons/修改.png' class='xiugai'></image>
+          </view>
+          <view>
+            <image src='../assets/icons/65dbbab02b279b1d44f86ee0b63d95e.png' class='aixin'></image>
+            <text class='love-num'>爱心值999</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='lishi-juan'>
+    <view class='lis-tit'>
+      <text>历史捐助</text>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+    <view class='list-menu'>
+      <view class='mu-list'>
+        <text class='list-nume'>单亲妈妈的孩子骨髓移植后并发症医药费告急</text>
+        <text class='list-pri'>999元</text>
+      </view>
+    </view>
+  </view>
+</view>

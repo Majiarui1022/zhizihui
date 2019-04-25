@@ -1,0 +1,10 @@
+[
+  {
+    "tit":"人员管理",
+    "url":"/superPersonlist"
+  },
+  {
+    "tit":"服务队管理",
+    "url":"/superAdministration"
+  }
+]

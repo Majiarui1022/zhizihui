@@ -1,0 +1,81 @@
+<!-- l轮播图 -->
+<view class="wrap">
+  <swiper indicator-color="{{yuanshi}}" indicator-active-color="{{zhihou}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{duration}}" current="{{swiperCurrent}}" bindchange="swiperChange" class="slider">
+    <block wx:for="{}" wx:key="">
+      <swiper-item>
+        <image src='../assets/icons/1.png' class="slide-image" width="100%" height="288"></image>
+      </swiper-item>
+      <swiper-item>
+        <image src='../assets/icons/1.png' class="slide-image" width="100%" height="288"></image>
+      </swiper-item> 
+      <swiper-item>
+        <image src='../assets/icons/1.png' class="slide-image" width="100%" height="288"></image>
+      </swiper-item> 
+      <swiper-item>
+        <image src='../assets/icons/1.png' class="slide-image" width="100%" height="288"></image>
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+<!-- 款项 -->
+<view class="money">
+  <view class="money-menu">
+    <view class="money-left">
+      <text class="mu-price">98000</text>
+      <text class="size-c">目标金额(元)</text>
+    </view>
+    <view class="money-cont">
+      <text class="yi-price">37510</text>
+      <text class="size-c">已筹金额(元)</text>
+    </view>
+    <view class="money-right">
+      <text class="pro-num">999</text>
+      <text class="size-c">帮助次数</text></view>
+  </view> 
+</view>
+<!-- 主题 -->
+<view class='menu-con'>
+  <view class="qi-logo">
+    <view class="logo-img">
+      <image src='../assets/icons/0服务费.png' class='logo-fuw'></image>
+      <image src='../assets/icons/0服务费.png' class='logo-sh'></image>
+      <image src='../assets/icons/0服务费.png' class='logo-sh'></image>
+    </view>
+  </view>
+  <view class='cont-chou'>
+      <!-- 文字 -->
+    <view class='cont-word'>
+      <text class='chou-tit'>筹款说明</text>
+      <view class='chou-wen'>我是一名大四的学生，是河南的普通二本院校，面临着考研还是就业的难题。而我的梦想是当演员，我觉得我不知道该如何去实现它，在现实和理想中该如何抉择？
+      asdasd
+      </view>
+    </view>
+    <!-- 展示文字 视频 -->
+    <view class='show-wv'>
+      <view class='zhe'></view>
+      <view class='show-word'>
+        <view class='word-tit' bindtap="consad" >展示全文</view>
+      </view>
+      <view class='show-viid'>
+        </view>
+    </view>
+
+  </view>
+</view>
+<view class='footer'>
+  <view class='footer-zhuan'>
+    <image src='../assets/icons/转发.png' class='zhuan'></image>
+    <view class='fa-word'><text>转发</text><text>12</text></view>
+  </view>
+
+  <view class='footer-mny'>
+
+
+      <view class='{{item.checked?"check":""}}' bindtap='change' wx:for="{{items}}" data-index='{{index}}'>
+        <image src='{{item.checked?"/assets/icons/one.png":"/assets/icons/two.png"}}'></image>
+      {{item.value}}</view>
+
+  </view>
+
+  <view class='zhifu'>确认支付</view>
+</view>
